@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[we protect what you love]]></title>
+        <description><![CDATA[we protect what you love]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 09 Jul 2016 17:45:58 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Mamoru provides a global immutable proof of ownership and proof of proximity for any high-value portable item. When you register your possession, like a bicycle, using our easy smartphone app, your ownership of the item is written to the Ethereum blockchain, for ever, linking you to your possession via the chip inside it. Thefts can easily be reported and the item recovered. </p>]]></description>
+            <link>undefinedmamoru-provides-a-global-immutable-proof-of-ownership-and-pr/index.html</link>
+            <guid isPermaLink="false">06f53423-ea15-414e-b88e-4af83e4ed6f4</guid>
+            <pubDate>Sat, 09 Jul 2016 17:45:57 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
